@@ -1,4 +1,4 @@
-# Datasets
+# DeepCase Datasets
 
 This research uses two datasets for its evaluation:
  1. [Lastline dataset](#Lastline-dataset).
