@@ -32,7 +32,7 @@ Unfortunately, this dataset lacks metadata about the risk level of security even
 Despite containing less information, we use the HDFS dataset to provide a reproducible comparison with state-of-the-art systems.
 
 ### Download
-The HDFS dataset as we used it in our research can be downloaded from [https://github.com/wuyifan18/DeepLog/tree/master/data](https://github.com/wuyifan18/DeepLog/tree/master/data) and we also have local copies available in the (/HDFS)[/HDFS] directory of this repo.
+The HDFS dataset as we used it in our research can be downloaded from [https://github.com/wuyifan18/DeepLog/tree/master/data](https://github.com/wuyifan18/DeepLog/tree/master/data) and we also have local copies available in the [HDFS](/HDFS) directory of this repo.
 
 ## References
 
